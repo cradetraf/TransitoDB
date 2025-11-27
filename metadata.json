@@ -1,0 +1,8 @@
+{
+  "name": "TransitoSeguro App",
+  "description": "Aplicativo para agentes de trânsito para coleta de dados offline com sincronização Google Sheets/Drive.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
