@@ -1,7 +1,7 @@
 import { RegionData } from './types';
 
 // IMPORTANT: REPLACE THIS URL WITH YOUR DEPLOYED GOOGLE APPS SCRIPT WEB APP URL
-export const GOOGLE_SCRIPT_URL = 'REPLACE_WITH_YOUR_SCRIPT_URL_HERE';
+export const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzk_4zpR32Bi5zlceEl4ZNvTJwVaN7hA3VogfbFfPlSx2zI0oIMdsQgZrbopKjX6RFX/exec';
 
 export const LOCATION_DATA: RegionData[] = [
   {
